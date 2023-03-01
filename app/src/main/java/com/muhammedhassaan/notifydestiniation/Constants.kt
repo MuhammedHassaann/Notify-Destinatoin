@@ -7,4 +7,5 @@ object Constants {
     val DONE = "Done"
     val PENDING_ICON = R.drawable.ic_pending
     val DONE_ICON = R.drawable.ic_done
+    val NOTIFICATION_CHANNEL_ID = "geofence_channel"
 }
